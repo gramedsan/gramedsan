@@ -13,7 +13,7 @@
   <img align="center" alt="Python" height="35" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img align="center" height="35" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif">
+  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.5Xogt9yqdgkqAvQXKx7n7gHaHa%26pid%3DApi&f=1">
 </div>
   
   ##
