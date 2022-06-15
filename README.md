@@ -35,6 +35,6 @@
 </div>
 
 ###
-<img href="https://github.com/gramedsant/gramedsant/blob/output/snake.svg" alt="Snake animation" />
+ ![Snake animation](https://github.com/gramedsant/gramedsant/blob/output/github-contribution-grid-snake.svg)
 
 ###
