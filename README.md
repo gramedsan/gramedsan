@@ -1,4 +1,4 @@
-<img align="right" height="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+<img align="right" height="200" src="https://media.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif"  />
 
 ###
 <p align="left">Hi! I'm Grazi!<br><br>👩‍💻 I’m currently learning JavaScript, Node.js, TypeScript and MySQL.</p>
@@ -23,9 +23,10 @@
   <a href="https://www.hackerrank.com/grazimedsan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="hackerrank logo"  />
   </a>
-  <a href="https://dev.to/gramedsan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="devto logo"  />
+  <a href="https://stackoverflow.com/users/19342047/grazielle-m-santiago" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo"  />
   </a>
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="devto logo"  />
 </div>
 
 ###
