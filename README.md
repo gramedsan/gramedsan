@@ -1,7 +1,7 @@
 <img align="right" height="200" src="https://media.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif"  />
 
 ###
-<p align="left"><b>Hi! I'm Grazi!</b><br><br>👩‍💻 I’m currently learning JavaScript, Node.js, TypeScript and MySQL.</p>
+<p align="left"><h1>Hi! I'm Grazi!</h1>👩‍💻 I’m currently learning JavaScript, Node.js, TypeScript and MySQL.</p>
 
 ###
 <div align="left">
