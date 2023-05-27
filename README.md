@@ -1,7 +1,7 @@
 <img align="right" height="200" src="https://media.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif"  />
 
 ###
-<p align="left"><h2>Hi! I'm Grazi!<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h2>👩‍💻 Never trust, always verify.</p>
+<p align="left"><h2>Hi! I'm Grazi!<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h2>👩‍💻 "Never trust, always verify"</p>
 
 ###
 <div align="left">
