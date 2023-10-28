@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👩‍💻 "Never trust, always verify"</p>
+<p align="left">👩‍💻 <b>"Never trust, always verify"</b></p>
 
 
 ###
